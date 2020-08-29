@@ -116,7 +116,7 @@
 
   <url>
     <loc>https://topshiyu.github.io/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,21 +124,21 @@
   
   <url>
     <loc>https://topshiyu.github.io/tags/demo/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://topshiyu.github.io/tags/php/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://topshiyu.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,14 +147,14 @@
   
   <url>
     <loc>https://topshiyu.github.io/categories/demo/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://topshiyu.github.io/categories/%E6%B5%8B%E8%AF%952/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
