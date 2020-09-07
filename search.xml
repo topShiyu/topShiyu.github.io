@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>c</title>
-    <url>/2020/08/20/c/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>demo</title>
-    <url>/2020/08/19/demo/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="这是一个测试的页面"><a href="#这是一个测试的页面" class="headerlink" title="这是一个测试的页面"></a>这是一个测试的页面</h1>]]></content>
+    <title>工具网站</title>
+    <url>/2020/09/07/%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>常用的系统、文章、图片、论坛、技术等网站地址</p>
+<h2 id="17素材网"><a href="#17素材网" class="headerlink" title="17素材网"></a>17素材网</h2><p>网页特效、flash素材、html5、css3、网页模板、企业模板、php模板、商城模板、后台模板、手机网站<br><a href="https://www.17sucai.com/">https://www.17sucai.com/</a> </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;www.17sucai.com&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h2 id="MSDN"><a href="#MSDN" class="headerlink" title="MSDN"></a>MSDN</h2><p>windows、linux、office等工具资源<br><a href="https://msdn.itellyou.cn/">https://msdn.itellyou.cn/</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;msdn.itellyou.cn&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h2 id="IconFont-阿里巴巴"><a href="#IconFont-阿里巴巴" class="headerlink" title="IconFont-阿里巴巴"></a>IconFont-阿里巴巴</h2><p>插画、图标库</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;www.iconfont.cn&#x2F;</span><br></pre></td></tr></table></figure>
+<h2 id="tinypng"><a href="#tinypng" class="headerlink" title="tinypng"></a>tinypng</h2><p>图片压缩<br><a href="https://tinypng.com/">https://tinypng.com/</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;tinypng.com&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h2 id="apache"><a href="#apache" class="headerlink" title="apache"></a>apache</h2><p>apache服务器<br><a href="http://httpd.apache.org/">http://httpd.apache.org/</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">http:&#x2F;&#x2F;httpd.apache.org&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h2 id="mysql"><a href="#mysql" class="headerlink" title="mysql"></a>mysql</h2><p>apache数据库<br><a href="https://dev.mysql.com/">https://dev.mysql.com/</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;dev.mysql.com&#x2F;</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>demo</category>
+        <category>工具网站</category>
       </categories>
       <tags>
-        <tag>demo</tag>
+        <tag>工具网站</tag>
       </tags>
   </entry>
   <entry>
@@ -33,34 +44,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>java</title>
-    <url>/2020/08/20/java/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>php</title>
-    <url>/2020/08/20/php/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-      <tags>
-        <tag>php</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/2020/08/20/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="这个是一个测试的页面"><a href="#这个是一个测试的页面" class="headerlink" title="这个是一个测试的页面"></a>这个是一个测试的页面</h1>]]></content>
-      <categories>
-        <category>测试2</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站</title>
-    <url>/2020/08/20/%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
   </entry>
 </search>
